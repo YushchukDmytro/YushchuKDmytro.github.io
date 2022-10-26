@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'RunSmart';
+  src:  url('fonts/RunSmart.eot?w71ok0');
+  src:  url('fonts/RunSmart.eot?w71ok0#iefix') format('embedded-opentype'),
+    url('fonts/RunSmart.ttf?w71ok0') format('truetype'),
+    url('fonts/RunSmart.woff?w71ok0') format('woff'),
+    url('fonts/RunSmart.svg?w71ok0#RunSmart') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'RunSmart' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_globe:before {
+  content: "\e909";
+}
+.icon_code:before {
+  content: "\e907";
+}
+.icon_embed:before {
+  content: "\e907";
+}
+.icon_moon-fill:before {
+  content: "\e902";
+}
+.icon_home:before {
+  content: "\e901";
+}
+.icon_bullhorn:before {
+  content: "\e91a";
+}
+.icon_phone:before {
+  content: "\e942";
+}
+.icon_location:before {
+  content: "\e947";
+}
+.icon_mobile:before {
+  content: "\e958";
+}
+.icon_bubbles2:before {
+  content: "\e96d";
+}
+.icon_user-tie:before {
+  content: "\e976";
+}
+.icon_search:before {
+  content: "\e986";
+}
+.icon_briefcase:before {
+  content: "\e9ae";
+}
+.icon_color_lens:before {
+  content: "\e906";
+}
+.icon_computer-laptop:before {
+  content: "\e905";
+}
+.icon_list:before {
+  content: "\e900";
+}
+.icon_calendar:before {
+  content: "\e904";
+}
+.icon_list:before {
+  content: "\e900";
+}
+.icon_cog:before {
+  content: "\e903";
+}
+.icon_mail-envelope-closed:before {
+  content: "\e908";
+}
